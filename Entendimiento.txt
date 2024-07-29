@@ -1,0 +1,46 @@
+Python 
+
+Es un lenguaje de programación informático que se utiliza a menudo para crear sitios web y software, 
+automatizar tareas y realizar análisis de datos. Python es un lenguaje de propósito general, lo que significa
+que se puede utilizar para crear una variedad de programas diferentes y no está especializado en ningún 
+problema específico. Esta versatilidad, junto con su facilidad para los principiantes, lo ha convertido en uno 
+de los lenguajes de programación más utilizados en la actualidad.
+
+¿Qué puedes hacer con Python? Algunas cosas incluyen:
+
+📈📊 Análisis de datos y aprendizaje automático
+💻 Desarrollo web
+🗓️ Automatización o scripting
+🎰 Pruebas y prototipos de software.
+
+Python
+
+Es popular por varias razones. A continuación te explicamos qué es lo que lo hace tan versátil y fácil de usar 
+para los programadores. 
+
+Tiene una sintaxis sencilla que imita el lenguaje natural, por lo que es más fácil de leer y entender. 
+Esto hace la construcción y mejora de los proyectos más rápida.
+Es versátil. Python puede utilizarse para muchas tareas diferentes, desde el desarrollo web hasta el aprendizaje automático.
+Es fácil de usar para los principiantes, por lo que es muy popular entre los programadores principiantes.
+Es de código abierto, lo que significa que su uso y distribución son gratuitos, incluso para fines comerciales.
+El archivo de módulos y bibliotecas de Python—conjuntos de código creados por otros usuarios para ampliar las capacidades 
+de Python—es enorme y sigue creciendo.
+
+Instala Python en tu ordenador en el siguiente link: https://www.python.org/downloads/
+
+# ................................................................
+#                       TIPOS DE NOTACIÓN
+#  ---------------------------------------------------------------
+#  Camel Case
+#  Se utiliza para una variable, una función o métodos.
+#  Ejemplo de varible-> mostrarDatos, verElementos, contarFrase.
+# ----------------------------------------------------------------
+# Pascal Case
+# Se utiliza para referenciar las clases.
+#  Ejemplo de variable -> AlmacenaDatos, VerLista, AddProductos.
+# ----------------------------------------------------------------
+#  Snake Case
+#  Se utiliza para las variable constantes es decir que no van a 
+#  cambiar nunca.
+#  Ejemplo de varible -> lista_total, conocer_base, ver_total.
+# ----------------------------------------------------------------
